@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "new-24-point-game",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}

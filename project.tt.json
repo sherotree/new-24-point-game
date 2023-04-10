@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./",
   "projectname": "new-24-point-game",
-  "appid": "testAppId",
+  "appid": "wx19fe80e87e5060bf",
   "setting": {
     "es6": false,
     "minified": false
